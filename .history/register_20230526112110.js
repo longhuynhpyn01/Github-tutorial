@@ -4,5 +4,4 @@ const handleRegistration = () => {
 
 const handleSubmit = () => { 
     console.log("handleSubmit");
-    console.log("thêm thay đổi vào");
 }
